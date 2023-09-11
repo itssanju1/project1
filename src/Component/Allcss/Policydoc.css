@@ -1,0 +1,46 @@
+.divcss1{
+    /* background-color: rgb(1, 80, 145); */
+    /* height: 80%;
+    width: 80%; */
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left:20px;
+    
+    
+}
+.divcss2{
+border-radius: 15px;
+margin: 50px;
+
+}
+.labelcss{
+    font-size: large;
+    font-weight: 550;
+}
+.buttoncss{
+    margin-left: 50%;
+    margin-top: 30%;
+    
+}
+.policybuttoncss{
+    margin: 20vh;
+    margin-left: 70%;
+}
+.divcss0{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.notification{
+    margin-left: 30%;
+    border: 1px solid  rgb(30, 135, 221);
+    background-color: rgb(58, 111, 146);
+    color: white;
+    font-size: 500px;
+    
+}
+.piccss{
+    height: 5vh;
+    border-radius: 20px;
+    margin-left: 20px;
+}

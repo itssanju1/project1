@@ -1,0 +1,45 @@
+.notification{
+    margin-left: 30%;
+    border: 1px solid  rgb(30, 135, 221);
+    background-color: rgb(58, 111, 146);
+    color: white;
+    font-size: 500px;
+    
+}
+.piccss{
+    height: 5vh;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.buttoncss011{
+    margin-left: 50%;
+}
+.cancelledcss{
+    margin: 2vh;
+}
+.cancellednotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+}
+.cancelledcss1{
+    margin: 4vh;
+    font-size: 20px;
+    font-weight: 600;
+}
+.cancelledcss2{
+    margin: 7vh;
+    font-size: 20px;
+    margin-left: 12vh;
+}
+.cancelledbutton{
+    margin: 5vh;
+    margin-left: 80%;
+}
+.uploadcorporatecss{
+    margin: 5vh;
+    margin-left: 80%;
+}

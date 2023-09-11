@@ -1,0 +1,117 @@
+
+.sidebar{
+    background-color: #074c61;
+  /* color: #074c61; */
+  height: 100%;
+  width: 25%;
+  position: fixed;
+ color: white;
+  padding-top: 30px;
+  border-radius: 15px;
+  font-size: 3vh;
+  padding-top: 30px;
+}
+.navbaarcss1{
+background-color: #074c61 ;
+width: 80%;
+height: 40px;
+margin-top: 10px;
+}
+.imgcss{
+    height: 40px;
+    width: 70%;
+    background-color: rgb(252, 252, 252);
+    border-radius: 15px;
+    margin: 35px;
+    
+}
+.me-auto{
+    font-size: 30px;
+    color: white;
+}
+
+.baarcss:hover{
+    color: rgb(24, 18, 18);
+    border: 2px solid white;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Style the button that opens the dropdown */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Style the dropdown links */
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color on hover */
+.dropdown-content a:hover {
+    background-color: #f5f5f5;
+    color: black;
+}
+
+/* Show the dropdown content when hovering over the dropdown button */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+.dashbordcsss{
+    width: 20px;
+    height: 50px;
+
+}
+.text-fileicon{
+    color: rgb(252, 245, 245);
+   size: 100px;
+}
+.text-fileicon:hover{
+    color: black;
+    
+}
+.dashboardcss{
+    color: white;
+    margin-bottom: 3vh;
+}
+.dashboardcss:hover{
+    background-color: white;
+    border-radius: 1vh;
+    width: 70%;
+    height: 5vh;
+    color: black;
+    /* text-align: center; */
+}
+.navbarcssss{
+    padding-top: 20%;
+    /* text-align: center; */
+
+}
+.navbarcssss:hover{
+    color: black;
+
+}
+.navbarcsss:hover{
+color: black;
+}

@@ -1,0 +1,82 @@
+.notification{
+    margin-left: 40%;
+    border: 1px solid  rgb(30, 135, 221);
+    background-color: rgb(58, 111, 146);
+    color: white;
+    font-size: 500px;
+    
+}
+.piccss{
+    height: 5vh;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.agentname{
+    border-radius: 10px;
+    height:4vh;
+    width: 30vh;
+}
+.patientcss{
+    margin-top: 10vh;
+}
+.large-checkbox2 input[type="checkbox"] {
+    width: 20px; /* Set the desired width */
+    height: 30px; /* Set the desired height */
+    margin-right: 15px;
+    text-align: center;
+  }
+  .patientcssadhar{
+    margin-top: 5vh;
+  }
+  .kycdetailcss1{
+    margin: 2vh;
+  }
+  .notificationkycdetail{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+  }
+  .kycdetailcss2{
+    margin: 40px;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .kycdetailcss3{
+    margin-left: 15vh;
+    font-size: 20px;
+  }
+  .kycdetailbutton{
+    margin: 10vh;
+    margin-left: 80%;
+  }
+  .kycdetail1css{
+    margin: 2vh;
+  }
+  .kycdetail1notification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+  }
+  .kycdetail1css1{
+    margin: 40px;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .kycdetail1css2{
+    margin-left: 15vh;
+    font-size: 20px;
+  }
+  .kycdetail1button{
+    margin: 10vh;
+    margin-left: 80%;
+  }
+  .buttonkyc2corporat{
+    margin: 5vh;
+    margin-left: 70%;
+  }

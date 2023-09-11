@@ -1,0 +1,63 @@
+.radiocss0{
+    margin-left: 30%;
+}
+.selectcss{
+    height: 40px;
+    width: 80%;
+    border:2px solid rgb(158, 157, 157);
+    border-radius: 10px;
+}
+.divcss2{
+    font-size: 20px;
+}
+.conditionscss{
+height: 20px;
+}
+.large-checkbox input[type="checkbox"] {
+    width: 30px; /* Set the desired width */
+    height: 30px; /* Set the desired height */
+    margin-right: 15px;
+  }
+  .buttoncss01{
+    margin-left: 50%;
+  }
+  .medicalcss1{
+    margin: 2vh;
+  }
+  .medicalnotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+  }
+  .medicalcss2{
+    margin: 4vh;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .medicalcss3{
+    margin: 7vh;
+    font-size: 20px;
+    margin-left: 12vh;
+  }
+  .medicalbuton{
+    margin: 2vh;
+    margin-left: 80%;
+  }
+  .CpmpanyDetailscss{
+margin: 2vh;
+  }
+  .CpmpanyDetailscssnotification{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+  }
+  .medicalbuttoncorporate{
+    margin: 5vh;
+    margin-left: 80%;
+  }

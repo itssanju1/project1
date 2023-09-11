@@ -1,0 +1,26 @@
+.StateorPincodecss{
+    margin: 2vh;
+}
+.notificationcsspincode{
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 50%;
+}
+.StateorPincodecsshead{
+    margin: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.StateorPincodecsstext{
+    margin-top: 40px;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.statepincssbutton{
+    margin: 90px;
+    margin-left: 70%;
+}

@@ -1,0 +1,134 @@
+.personicon{
+    border: 2px solid rgb(126, 218, 146);
+    border-radius: 15vh;
+    margin-left: 14vh;
+    margin-top: 3vh;
+    background-color:rgb(147, 196, 158) ;
+}
+.cardbutton123{
+    margin-top: 2vh;
+    width: 35vh;
+    color: rgb(10, 10, 10);
+    border: 2px solid black;
+    text-align: left;
+}
+.texticon{
+    border: 2px solid rgb(185, 148, 117);
+    border-radius: 15vh;
+    margin-left: 14vh;
+    margin-top: 3vh;
+    background-color:rgb(185, 148, 117) ;
+}
+.cardradius{
+    border-radius: 15px;
+}
+.addindividualcss{
+    margin: 2vh;
+}
+.notificationcssdasboard{
+    
+    margin-left: 5vh;
+    border: 1px solid rgb(40, 116, 187);
+    border-radius: 5px;
+    background-color:  rgb(40, 116, 187);
+    color: white;
+    margin-left: 66%;
+}
+.piccssdashboard{
+    height: 5vh;
+    border-radius: 20px;
+    margin-left: 20px;
+   
+}
+.containercssdashboard{
+    border: 1px solid black;
+    /* width: 22rem; */
+    border-radius: 10px;
+    
+    
+}
+.hedingcssdashboard{
+    margin: 15px;
+    font-weight: 600;
+    font-size: larger;
+}
+.personaliconcss{
+    border: 1px solid rgb(102, 175, 135);
+    width: 30%;
+    height: 40%;
+    border-radius: 15vh;
+    margin-left: 12vh;
+    background-color:rgb(102, 175, 135) ;
+}
+.personiconcss{
+    margin: 14px;
+    color: white;
+}
+.buttondashboardcss{
+    width: 100%;
+    margin-top: 40px;
+    
+    border-radius: 10px;
+}
+.containercssdashboard1{
+    border: 1px solid black;
+    /* width: 22rem; */
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.texticoncss{
+    margin: 16px;
+    color: white;
+}
+.texticoncsss{
+    border: 1px solid rgb(189, 161, 136);
+    width: 30%;
+    height: 40%;
+    border-radius: 15vh;
+    margin-left: 12vh;
+    background-color:rgb(189, 161, 136) ;
+}
+.medicaliconcsss{
+    border: 1px solid rgb(96, 172, 223);
+    width: 30%;
+    height: 40%;
+    border-radius: 15vh;
+    margin-left: 12vh;
+    background-color:rgb(96, 172, 223) ;
+}
+.containercssdashboard2{
+    border: 1px solid black;
+    /* width: 22rem; */
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.nodeaddiconcsss{
+    border: 1px solid rgb(96, 172, 223);
+    width: 30%;
+    height: 40%;
+    border-radius: 15vh;
+    margin-left: 12vh;
+    background-color:rgb(96, 172, 223) ;
+}
+.noteaddiconcss1{
+margin: 2vh;
+color: white;
+}
+.containercssdashboard3{
+    border: 1px solid black;
+    /* width: 22rem; */
+    border-radius: 10px;
+   margin-left: 20px;
+}
+.personaliconcss1{
+    border: 1px solid rgb(197, 158, 202);
+    width: 30%;
+    height: 40%;
+    border-radius: 15vh;
+    margin-left: 12vh;
+    background-color: rgb(197, 158, 202) ;
+}
+.corporatebuttoncss{
+    margin: 5vh;
+    margin-left: 80%;
+}
